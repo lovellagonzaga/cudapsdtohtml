@@ -1,0 +1,328 @@
+body{
+	
+	font-family: 'Titillium Web', sans-serif;
+
+	h1{
+		font-family: 'Titillium Web';
+		font-weight: bold;
+		font-size: 31px;
+	}
+
+	h3{
+		font-weight: 'Titillium Web';
+		font-weight: bold;
+	}
+
+	.one{
+
+		background-color: #87509C;
+		width: auto;
+		height: 596px;
+		border-bottom: 1px solid #ccc;
+		text-align: center;
+
+		h1{
+			padding-top: 220px;
+			margin: 0;
+			color: #fff;
+		}
+
+		button{
+			margin-top: 60px;
+			padding: 20px 60px 20px 60px;
+			background-color: #eb7d4b;
+			color: #fff;
+			border: 0;
+			border-bottom: 4px solid #cc6633;
+			font-family: 'Titillium Web';
+		}
+	}
+
+	.two{
+
+		background-color: #17c2a4;
+		width: 100%;
+		height: 748px;
+		border-bottom: 1px solid #ccc;
+		text-align: center;
+
+		h1, h3, p{
+			color: #fff;
+			font-family: 'Titillium Web';
+			text-align: center;
+		}
+
+		h1{
+			margin-top: 0;
+			padding-top: 121px;
+		}
+
+		hr{
+			width: 5%;
+			border: 3px solid #14a58c;
+		}
+
+		ul{
+			display: flex;
+			margin-top: 100px;
+
+			li{
+				list-style-type: none;
+				margin-right: 70px;
+
+				img{
+					width: 100%;
+				}
+
+				h3{
+					font-size: 20px;
+				}
+
+
+				p{
+					color: #fff;
+					font-family: 'Titillium Web';
+					text-align: center;
+				 }
+			}
+		}
+	}
+
+	.three{
+		height: 915px;
+		background-color: #e7f1f8;
+
+		h1, h3, p{
+			color: #3c4761;
+			font-family: 'Titillium Web';
+			text-align: center;
+		}
+
+		.sub{
+			font-weight: bold;
+		}
+
+		hr{
+			width: 5%;
+			border: 3px solid #c8d9e5;
+		}
+
+		.circle{
+			height: 150px;
+			width: 150px;
+			background-color: #878787;
+			border-radius: 50%;
+		}
+
+		h4{
+			color: #48c1e9;
+			font-family: 'Titillium Web';
+			text-align: center;
+			font-size: 15px;
+		}
+
+		h1{
+			padding-top: 120px;
+			font-size: 31px;
+		}
+
+		ul{
+			display: flex;
+			margin-top: 100px;
+
+			li{
+				list-style-type: none;
+				margin-right: 70px;
+
+				h3{
+					font-size: 18px;
+				}
+
+
+				p{
+					font-family: 'Titillium Web';
+					text-align: center;
+				 }
+			}
+		}
+
+		.social{
+			text-align: center;
+			margin-top: 20px;
+
+			i{
+				margin-right: 5px;
+				font-size: 10px;
+				color: #fff;;
+				padding: 10px;
+				background-color: #bdd1df;
+				border-radius: 50%;
+			}
+
+			.fa-facebook{
+				width: 30px;
+    			height: 30px;
+			}
+
+		}		
+
+	}
+
+	.four{
+		height: 655px;
+		background-color: #fff;
+
+		h1, h3, p{
+			color: #3c4761;
+			font-family: 'Titillium Web';
+			text-align: center;
+		}
+
+		.sub{
+			font-weight: bold;
+		}
+
+		hr{
+			width: 5%;
+			border: 3px solid #c8d9e5;
+		}
+
+		h1{
+			padding-top: 120px;
+			font-size: 31px;
+		}
+
+		ul{
+			display: flex;
+			text-align: center;
+			li{
+				list-style-type: none;
+				margin: 0 40px 0 40px;
+
+				.c100{
+					margin-top: 100px;
+
+					span{
+						font-family: 'Titillium Web';
+					}
+
+					.blue, .bl{
+						border: 0.08em solid #30bae7!important;
+					}
+
+					.pink, .pi{
+						border: 0.08em solid #d74680!important;
+					}
+
+					.green, .gr{
+						border: 0.08em solid #15c7a8!important;
+					}
+
+					.orange, .or{
+						border: 0.08em solid #eb7d4b!important;
+					}
+
+				}
+
+				h3{
+					font-size: 20px;
+				}
+			}
+		}
+
+	}
+
+	.five{
+		height: 1425px;
+		background-color: #ffdd99;
+
+		h1, h5, p{
+			color: #393939;
+			font-family: 'Titillium Web';
+			text-align: center;
+		}
+
+		.sub{
+			font-weight: bold;
+		}
+
+		hr{
+			width: 5%;
+			border: 3px solid #e5c37f;
+		}
+
+		h1{
+			padding-top: 120px;
+			font-size: 31px;
+		}
+
+		h5{
+			font-size: 16px;
+		}
+
+
+		.laptops{
+			margin-top: 50px;
+			display: flex;
+
+			li{
+				margin-bottom: 40px;
+				list-style-type: none;
+				h5{
+					margin-top: 15px;
+					font-weight: bold;
+				}
+
+				img{
+					width: 90%;
+				}
+			}
+		}
+
+		button{
+			margin-top: 30px;
+			padding: 20px 60px 20px 60px;
+			background-color: 17c2a4;
+			color: #fff;
+			border: 0;
+			border-bottom: 4px solid #14a58c;
+			font-family: 'Titillium Web';
+		}
+
+	}
+
+	.six{ 
+		height: 895px;
+		background-color: #d74680;
+
+		h1, h5, p{
+			color: #fff;
+			font-family: 'Titillium Web';
+			text-align: center;
+		}
+
+		.sub{
+			font-weight: bold;
+		}
+
+		hr{
+			width: 5%;
+			border: 3px solid #b73c6d;
+		}
+
+		h1{
+			padding-top: 120px;
+			font-size: 31px;
+		}
+
+		h5{
+			font-size: 16px;
+		}
+	}
+
+	.seven{
+		height: 815px;
+		background-color: #3c5499;
+	}
+
+}
